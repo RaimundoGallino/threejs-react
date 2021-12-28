@@ -1,5 +1,9 @@
 # threejs-react-earthComponent
 
+<div align="center">
+  <img width="100%" height="100%" src="https://i.imgur.com/BS7OKN6.png">
+</div>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 You must have [node.js](https://nodejs.org/en/download/) and [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) installed
