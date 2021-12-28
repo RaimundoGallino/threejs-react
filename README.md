@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 You must have [node.js](https://nodejs.org/en/download/) and [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) installed
 
-## Available Scripts
+## Setting up the project enviroment / adding dependencies
 
  `yarn add styled-components`
 
