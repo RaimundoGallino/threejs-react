@@ -13,7 +13,7 @@ const CanvasContainer = styled.div`
 function App() {
   return <CanvasContainer>
     <Canvas>
-      <Suspense fullback={null}>
+      <Suspense fullback={null} >
         <Earth />
       </Suspense>
     </Canvas>
