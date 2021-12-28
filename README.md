@@ -14,7 +14,7 @@ You must have [node.js](https://nodejs.org/en/download/) and [yarn](https://clas
 
  `yarn add three@0.135.0`
 
-for OrbitControls to work 0.136.0 version remove this feature
+for OrbitControls to work, 0.136.0 version remove this feature
 
 ## In the project directory, you can run:
 
